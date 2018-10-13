@@ -1,0 +1,4 @@
+- name: Pootis
+  files:
+    -name: test
+    -path: wanker.md
